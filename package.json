@@ -1,0 +1,23 @@
+{
+  "name": "lazy-json",
+  "version": "0.1.0",
+  "description": "A lazy json parser",
+  "main": "index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJian/lazy-json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "theJian<thejianmail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theJian/lazy-json/issues"
+  },
+  "homepage": "https://github.com/theJian/lazy-json#readme"
+}
